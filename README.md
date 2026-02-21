@@ -118,6 +118,4 @@ The Superstore business demonstrates solid revenue generation and growth trends.
 - 📂 [Download Dataset](./Superstore_Sales_Data.xlsx)
 - 📊 [View Dashboard](./DashboardImage.png)
 
-Superstore Sales Dataset (Sample retail transactional dataset commonly used for BI practice projects)
-
-<img width="1270" height="730" alt="image" src="https://github.com/user-attachments/assets/43a8afc7-50d6-4340-a78e-6d178023061c" />
+<!-- <img width="1270" height="730" alt="image" src="https://github.com/user-attachments/assets/43a8afc7-50d6-4340-a78e-6d178023061c" /> -->
